@@ -1,6 +1,3 @@
-Berikut adalah file `README.md` dalam format raw markdown untuk proyek **Sellora** (web-ppl):
-
-```markdown
 # Sellora - Marketplace Platform
 
 Sellora adalah platform marketplace berbasis web yang dirancang untuk menghubungkan penjual dan pembeli. Proyek ini mencakup sistem manajemen produk bagi penjual, verifikasi aplikasi penjual oleh administrator, serta katalog produk yang dapat dijelajahi oleh pengguna umum.
